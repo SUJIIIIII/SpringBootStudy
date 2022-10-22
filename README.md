@@ -3,6 +3,6 @@
 
 - 개발환경<br>
 Java 8<br>
-SpringBoot 2.7.4<br>
-JPA<br>
+SpringBoot 2.7.4 Gradle<br>
+SpringData JPA<br>
 Mysql<br>
